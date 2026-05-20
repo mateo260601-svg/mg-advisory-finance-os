@@ -1,3 +1,2 @@
-def build_lender_presentation(*args, **kwargs):
-    raise NotImplementedError("PPTX builder is intentionally optional in V1.")
+python-3.11.9
 
